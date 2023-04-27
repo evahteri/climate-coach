@@ -14,4 +14,3 @@ This is the final project made for the course User Interfaces and Usability
 
 5. Close the program by closing the chrome window or by pressing Ctrl + C
 
-
